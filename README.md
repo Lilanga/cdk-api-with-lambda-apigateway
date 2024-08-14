@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# A REST API backed by Lambda and API Gateway using AWS CDK
 
-This is a blank project for CDK development with TypeScript.
+This project create a REST API using AWS CDK in TypeScript to retrieve the latest sensor readings from a DynamoDB table
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
